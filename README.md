@@ -1,6 +1,6 @@
-# AngularNestjs
+# Angular Frontend to Nestjs Backend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9. It is the frontend to [NestJS backend repo](https://github.com/iRafaelG/restapi-nestjs). Before testing it, make sure you put your backend url into `services/products.services.ts` file.
 
 ## Development server
 
